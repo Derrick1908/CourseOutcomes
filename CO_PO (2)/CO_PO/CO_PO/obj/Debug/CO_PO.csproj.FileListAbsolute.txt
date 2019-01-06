@@ -1,0 +1,26 @@
+c:\users\administrator\documents\visual studio 2015\Projects\CO_PO\CO_PO\bin\Debug\CO_PO.exe.config
+c:\users\administrator\documents\visual studio 2015\Projects\CO_PO\CO_PO\bin\Debug\CO_PO.exe
+c:\users\administrator\documents\visual studio 2015\Projects\CO_PO\CO_PO\bin\Debug\CO_PO.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\CO_PO\CO_PO\obj\Debug\CO_PO.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2015\Projects\CO_PO\CO_PO\obj\Debug\CO_PO.Data_Grid.resources
+c:\users\administrator\documents\visual studio 2015\Projects\CO_PO\CO_PO\obj\Debug\CO_PO.Form1.resources
+c:\users\administrator\documents\visual studio 2015\Projects\CO_PO\CO_PO\obj\Debug\CO_PO.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2015\Projects\CO_PO\CO_PO\obj\Debug\CO_PO.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2015\Projects\CO_PO\CO_PO\obj\Debug\CO_PO.exe
+c:\users\administrator\documents\visual studio 2015\Projects\CO_PO\CO_PO\obj\Debug\CO_PO.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\CO_PO\CO_PO\obj\Debug\CO_PO.CO_PO_Selection.resources
+c:\users\administrator\documents\visual studio 2015\Projects\CO_PO\CO_PO\obj\Debug\CO_PO.Analyse.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\CO_PO\CO_PO\obj\Debug\CO_PO.Scaled.resources
+C:\Users\delbz\OneDrive\Pictures\CO_PO (2)\CO_PO\CO_PO\bin\Debug\CO_PO.exe.config
+C:\Users\delbz\OneDrive\Pictures\CO_PO (2)\CO_PO\CO_PO\obj\Debug\CO_PO.exe
+C:\Users\delbz\OneDrive\Pictures\CO_PO (2)\CO_PO\CO_PO\obj\Debug\CO_PO.pdb
+C:\Users\delbz\OneDrive\Pictures\CO_PO (2)\CO_PO\CO_PO\bin\Debug\CO_PO.exe
+C:\Users\delbz\OneDrive\Pictures\CO_PO (2)\CO_PO\CO_PO\bin\Debug\CO_PO.pdb
+C:\Users\delbz\OneDrive\Pictures\CO_PO (2)\CO_PO\CO_PO\obj\Debug\CO_PO.csprojResolveAssemblyReference.cache
+C:\Users\delbz\OneDrive\Pictures\CO_PO (2)\CO_PO\CO_PO\obj\Debug\CO_PO.Analyse.resources
+C:\Users\delbz\OneDrive\Pictures\CO_PO (2)\CO_PO\CO_PO\obj\Debug\CO_PO.CO_PO_Selection.resources
+C:\Users\delbz\OneDrive\Pictures\CO_PO (2)\CO_PO\CO_PO\obj\Debug\CO_PO.Data_Grid.resources
+C:\Users\delbz\OneDrive\Pictures\CO_PO (2)\CO_PO\CO_PO\obj\Debug\CO_PO.Form1.resources
+C:\Users\delbz\OneDrive\Pictures\CO_PO (2)\CO_PO\CO_PO\obj\Debug\CO_PO.Properties.Resources.resources
+C:\Users\delbz\OneDrive\Pictures\CO_PO (2)\CO_PO\CO_PO\obj\Debug\CO_PO.Scaled.resources
+C:\Users\delbz\OneDrive\Pictures\CO_PO (2)\CO_PO\CO_PO\obj\Debug\CO_PO.csproj.GenerateResource.Cache
